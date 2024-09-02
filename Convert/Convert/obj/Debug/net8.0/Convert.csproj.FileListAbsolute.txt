@@ -1,0 +1,14 @@
+G:\Three\Csh\Convert\Convert\bin\Debug\net8.0\Convert.exe
+G:\Three\Csh\Convert\Convert\bin\Debug\net8.0\Convert.deps.json
+G:\Three\Csh\Convert\Convert\bin\Debug\net8.0\Convert.runtimeconfig.json
+G:\Three\Csh\Convert\Convert\bin\Debug\net8.0\Convert.dll
+G:\Three\Csh\Convert\Convert\bin\Debug\net8.0\Convert.pdb
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.GeneratedMSBuildEditorConfig.editorconfig
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.AssemblyInfoInputs.cache
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.AssemblyInfo.cs
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.csproj.CoreCompileInputs.cache
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.dll
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\refint\Convert.dll
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.pdb
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\Convert.genruntimeconfig.cache
+G:\Three\Csh\Convert\Convert\obj\Debug\net8.0\ref\Convert.dll
